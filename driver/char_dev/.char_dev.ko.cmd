@@ -1,0 +1,1 @@
+cmd_/home/yao/Documents/project/char_dev/char_dev.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/yao/Documents/project/char_dev/char_dev.ko /home/yao/Documents/project/char_dev/char_dev.o /home/yao/Documents/project/char_dev/char_dev.mod.o;  true

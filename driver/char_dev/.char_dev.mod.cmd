@@ -1,0 +1,1 @@
+cmd_/home/yao/Documents/project/char_dev/char_dev.mod := printf '%s\n'   char_dev.o | awk '!x[$$0]++ { print("/home/yao/Documents/project/char_dev/"$$0) }' > /home/yao/Documents/project/char_dev/char_dev.mod

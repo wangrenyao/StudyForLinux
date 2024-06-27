@@ -1,0 +1,1 @@
+cmd_/home/yao/Documents/project/char_dev/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/yao/Documents/project/char_dev/Module.symvers -T /home/yao/Documents/project/char_dev/modules.order -i Module.symvers -e 

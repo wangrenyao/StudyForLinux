@@ -1,0 +1,1 @@
+cmd_/home/yao/Documents/project/mod/test_mod.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/yao/Documents/project/mod/test_mod.ko /home/yao/Documents/project/mod/test_mod.o /home/yao/Documents/project/mod/test_mod.mod.o;  true
