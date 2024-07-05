@@ -1,5 +1,5 @@
 CONFIG_MODULE_SIG=n
-obj-m:=char_dev.o
+obj-m:=driver.o
 
 CURRENT_PATH:=$(shell pwd)
 LINUX_KERNEL:=$(shell uname -r)
